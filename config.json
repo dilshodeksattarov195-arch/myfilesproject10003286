@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerppdate",
+        "uuid": 18851782,
+        "checksum": "cmi3qd"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
